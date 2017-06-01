@@ -14,8 +14,8 @@
         "php": ">=5.6.0"
     },
     "autoload": {
-        "classmap": [
-            "src/MasterHelper"
+        "files": [
+            "src/autoload.php"
         ]
     }
 }
