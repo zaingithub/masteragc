@@ -1,0 +1,22 @@
+{
+    "name": "zaingithub/masteragc",
+    "description": "Master Helper Auto Generated Content",
+    "type": "library",
+	"homepage": "https://github.com/zaingithub/masteragc",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "Masterzain",
+            "email": "zai.ads008@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/MasterHelper"
+        ]
+    }
+}
